@@ -8,3 +8,6 @@ If another intense volume is detected within a predefined time duration then tim
 
 Two H-bridge L298N Motor Drive is connected to two motors each. The motors rotate clockwise and counterclockwise to turn the car back and forth.
 One motor rotates while the other doesn’t in order to pivot the car left/right across the motionless wheel.
+
+
+![toyCar](https://user-images.githubusercontent.com/81398961/212504392-1ddbe503-db2d-4917-a91c-40fdd0e98b7f.jpeg)
